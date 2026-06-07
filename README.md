@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Drawing grid allowing users to paint pixel frames.
+  name: pixel-art-canvas version: 1.0 type: Repository author: VarshuAi description: >   Drawing grid allowing users to paint pixel frames. primary_tech: CSS
 primary_tech: CSS
 ```
 
